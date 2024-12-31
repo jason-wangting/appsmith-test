@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 83,
+  "bottomRow": 104,
   "displayName": "Text",
   "dynamicBindingPathList": [
     {
@@ -40,7 +40,7 @@
   "text": "Assets by Department",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 79,
+  "topRow": 100,
   "type": "TEXT_WIDGET",
   "version": 1,
   "widgetId": "jzqqvkuc0s",
